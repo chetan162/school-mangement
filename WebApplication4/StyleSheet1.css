@@ -1,0 +1,143 @@
+﻿#name
+{
+    
+position:absolute;
+top:20px;
+left:196px;
+height:193px;
+border:1px solid black;
+
+}
+    #left
+    {
+    top:1837px;
+    position:absolute;
+    left: 17px;
+    width: 344px;
+    height: 385px;
+  
+}
+#content
+{
+     top:237px;
+     position:absolute;
+     left: 12px;
+     width: 1323px;
+     height: 397px;
+}
+#right
+{
+     top:1835px;
+     position:absolute;
+     left :926px;
+  
+    }
+    #icon
+    {
+    position:absolute;
+    left :893px;
+    top: 8px;
+    width: 238px;
+    height: 85px;
+}
+#aca
+{
+     position:absolute;
+    top: 251px;
+    left: 12px;
+    width: 1328px;
+    height: 2764px;
+    bottom: 79px;
+}
+#cal
+{
+  position:absolute;
+    }
+    
+    .ab
+    {
+        position:absolute;
+    top: -1px;
+    left: -1px;
+    width: 354px;
+    height: 54px;
+}
+#con
+{
+    position:absolute;
+    top:642px;
+    left: 12px;
+    width: 1323px;
+    height: 564px;
+    
+}
+#con1
+{
+    position:absolute;
+    top:2px;
+    left: 5px;
+    width: 839px;
+    height: 274px;
+}
+#gh
+
+{
+    position:absolute;
+    left: 12px;
+    }
+   #Image2
+   {
+      position:absolute;
+    top: 67px;
+    left: 834px;
+    width: 315px;
+    box-shadow: rgb(136, 136, 136) 0px 0px 15px 1px;
+}
+#hj
+{
+    position:absolute;
+    left: 3px;
+    top: 65px;
+    width: 1330px;
+    height: 1130px;
+}
+#last
+{
+  position:absolute;
+    top: 1885px;
+    left: 7px;
+    width: 544px;
+    height: 44px;
+}
+#clear
+{
+     position:absolute;
+    }
+    #new
+    {
+        position:absolute;
+        }
+    #new1
+    {
+        position:absolute;
+        }
+        #but
+        {
+           position:absolute;  
+            }
+      #but3
+     {
+        position:absolute;
+    top: 1215px;
+    left: 19px;
+    width: 1308px;
+    height: 383px;
+}
+#fghj
+{
+     position:absolute;
+    top: 254px;
+    left: 14px;
+    width: 1326px;
+    height: 210px;
+}
